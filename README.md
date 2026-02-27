@@ -1,1 +1,7 @@
 # UNP_PROJECT_BI_WITH_POWER_BI_PIZZA_DATA_ANALYSIS
+
+These interactive dashboards offer a comprehensive analysis of pizza delivery operations. They begin with key performance indicators (KPIs) like total orders, delayed orders, average delivery time, and overall delay percentage. Further insights delve into order trends by month, pizza type, restaurant, and size, providing a granular view of sales patterns. A dedicated section evaluates the impact of traffic levels on delivery performance, highlighting delays and average delivery times across different traffic conditions. Lastly, the dashboards break down order volume, delay percentages, and average delivery times by payment method and category. This allows for a complete understanding of operational efficiency and customer behavior in pizza delivery. These dashboards are an invaluable resource for operational managers, analysts, and business stakeholders seeking to optimize delivery logistics and customer satisfaction. By visualizing critical metrics and identifying areas for improvement, they empower users to make data-driven decisions that enhance efficiency, reduce delays, and ultimately improve the overall pizza delivery experience. 
+
+PROJECT PBIX FILE: https://drive.google.com/file/d/1e4YRYRp5ZH2YvMQ7_TLErYRcKJ0Y7e_e/view?usp=sharing
+
+PROJECT PDF FILE: https://drive.google.com/file/d/1DSIW9Zm46iGwSsFXpaeLM31oz9AFMx8c/view?usp=sharing
